@@ -1,0 +1,4 @@
+#Fri Oct 14 11:31:40 IST 2022
+base.0=/Users/tejasagrawal/Downloads/flutter-login-ui-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
